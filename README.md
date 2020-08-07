@@ -1,4 +1,4 @@
-### Hi there :wave::sunglasses:
+### Hi there:heavy_exclamation_mark:
 <!--
 **JorgeFilipe/jorgefilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
