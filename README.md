@@ -1,5 +1,4 @@
-### Hi there 👋 :sunglasses: 
-:shipit:
+### Hi there :sunglasses::thumbsup:
 <!--
 **JorgeFilipe/jorgefilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
