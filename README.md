@@ -6,4 +6,4 @@
 
   :mag_right: Would you like to meet me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jorge-Filipe-Silva)](https://www.linkedin.com/in/Jorge-Filipe-Silva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jorge-Filipe-Silva)](https://www.linkedin.com/in/fill)
