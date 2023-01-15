@@ -1,6 +1,6 @@
 ### Hi there :hand::sunglasses:
 
-  I'm Jorge Filipe, I live in Brazil (:sunrise_over_mountains:). Currently working with Information Security, and improving myself to reach Full-stack Level.
+  I'm Jorge Filipe, I live in Brazil (:sunrise_over_mountains:). Currently working with Information Security, and Back-End Developer.
 
   In my free time I like to watch movies(:movie_camera:) and series(:tv:), study music (:musical_score:), play a beautiful guitar solo (:guitar:), sports (:running_man:) and reading (:book:).
 
