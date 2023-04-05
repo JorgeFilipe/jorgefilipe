@@ -2,7 +2,7 @@
 
   I'm Jorge Filipe, I live in Brazil (:sunrise_over_mountains:). Currently working with Information Security, and Back-End Developer.
 
-  In my free time I like to watch movies(:movie_camera:) and series(:tv:), study music (:musical_score:), play a beautiful guitar solo (:guitar:), sports (:running_man:) and reading (:book:).
+  I currently work with IBM's QRadar SIEM solution. I have 2 years of experience in cybersecurity, having participated in compliance projects with the General Data Protection Act (LGPD), and in security assessment projects focused on NIST.
 
   :mag_right: Would you like to meet me?
 
