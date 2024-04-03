@@ -1,6 +1,6 @@
 ### Hi there :hand::sunglasses:
 
-My name is Jorge Filipe, I live in Brazil (:sunrise_over_mountains:). I currently work as an Information Security Consultant and Back-End Developer.
+My name is Jorge Filipe. I currently work as an Information Security Consultant and Back-End Developer.
 
 I currently work on the engineering team using IBM's QRadar SIEM solution. I have 2 years of experience in cybersecurity, having participated in compliance projects with the General Data Protection Law (LGPD), and in security assessment projects focusing on NIST.
 
