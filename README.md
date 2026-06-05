@@ -1,6 +1,6 @@
 ### Hi there :hand::sunglasses:
 
-![makiplays-retrowave](https://github.com/user-attachments/assets/69974ea6-04e6-4c0a-9e38-25a48f93d9ef)
+![makiplays-retrowave](https://github.com/user-attachments/assets/6c4d1f54-026f-4272-8f3b-98b0b7d1a6ae)
 
 - 👋 Hi, I’m Filipe
 - 💼 I’m work on Cybersecurity
